@@ -50,4 +50,10 @@ npm run preview
 npm run lint
 ```
 
-Adjust environment variables or API endpoints as needed for your deployment setup.*** End Patchி to=functions.apply_patchาสตร์ assistants to=functions.apply_patch ***!
+## Live demo
+
+- https://quiz-ui-frontend.vercel.app/
+
+## UI preview
+
+![Quiz UI Preview](public/quiz-ui.png)
